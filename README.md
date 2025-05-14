@@ -2,7 +2,7 @@
 
 ---
 
-The writing in part 1 and all of part three is in this md file. For the part 2 I used regular javascript because my classes are still in session and I am in the middle of my athletic season so I did not have time to learn React.js and submit this project by Thursday. With more time I would have learned how to use these tools and would have linked my python file as backend to my website to do the natural language processing. I would have also implemented a less brute force method of detecting meaning in inputted sentences in my python program.
+The writing in part 1 and all of part three is in this md file. For the part 2 I used regular javascript because my classes are still in session and I am in the middle of my athletic season so I did not have time to learn React.js and submit this project by Thursday. With more time I would have learned how to use these tools and would have linked my python file as backend to my website to do the natural language processing. I would have also implemented a less brute force method of detecting meaning in inputted sentences in my python program. GitHub pages web link: [FHIR Query Interface](https://kimaher.github.io/OnyeSyncProj/).
 
 ---
 
