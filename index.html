@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FHIR Query Interface</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>FHIR Query Interface</h1>
+
+        <!-- Query Input Section -->
+        <div class="query-section">
+            <input type="text" id="queryInput" placeholder="Enter your query (e.g., 'Show me diabetic patients over 50')" />
+            <button onclick="handleQuery()">Submit</button>
+        </div>
+
+        <!-- Chart Display -->
+        <div class="chart-section">
+            <canvas id="chartCanvas" width="400" height="400"></canvas>
+        </div>
+
+        <!-- Table Display -->
+        <div class="table-section">
+            <table id="resultsTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Gender</th>
+                        <th>Age</th>
+                        <th>Condition</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Data will be dynamically inserted here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
