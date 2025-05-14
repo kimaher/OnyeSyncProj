@@ -2,7 +2,7 @@
 
 ---
 
-The writing in part 1 and all of part three is in this md file.
+The writing in part 1 and all of part three is in this md file. For the part 2 I used regular javascript because my classes are still in session and I am in the middle of my athletic season so I did not have time to learn React.js and submit this project by Thursday.
 
 ---
 
